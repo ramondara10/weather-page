@@ -1,4 +1,3 @@
-// global variables!
 var userSearches = [];
 var mode;
 var lat, lon;
